@@ -9,4 +9,4 @@ int main(int argc , char *argv[]){
         printf("the password is : %s\n",pass);
         q=password_check(pass);
         printf("%d",q);        
-}
+}       
